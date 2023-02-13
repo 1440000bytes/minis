@@ -1,0 +1,19 @@
+      .row {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      .row img {
+        width: 20%;
+        padding: 5px;
+        box-sizing: border-box;
+      }
+
+		h1 {
+			text-align: center;
+		}
+
+#about {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
